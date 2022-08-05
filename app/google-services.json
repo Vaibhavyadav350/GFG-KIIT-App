@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735105715190",
+    "project_id": "gfg-kiit-app-553e6",
+    "storage_bucket": "gfg-kiit-app-553e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735105715190:android:46127e985f1093f6a715d7",
+        "android_client_info": {
+          "package_name": "com.vaibhav.gfgkiitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735105715190-vu4n4gsipsr1agrueso0am33bh9fi4to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHmZ6TUslB8enDcgm3Fgk2eW8MRsYgj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735105715190-vu4n4gsipsr1agrueso0am33bh9fi4to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
